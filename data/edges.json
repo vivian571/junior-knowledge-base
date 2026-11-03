@@ -1,0 +1,326 @@
+[
+ {
+  "from": "wy-e7a-S1",
+  "to": "wy-e7a-S2",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-S1",
+  "to": "wy-e7a-G3",
+  "strength": "硬",
+  "note": "先有可数/复数概念"
+ },
+ {
+  "from": "wy-e7a-S1",
+  "to": "wy-e7a-U2-K3",
+  "strength": "硬",
+  "note": "可数性"
+ },
+ {
+  "from": "wy-e7a-G1",
+  "to": "wy-e7a-G2",
+  "strength": "硬",
+  "note": "主语人称决定动词形式"
+ },
+ {
+  "from": "wy-e7a-G2",
+  "to": "wy-e7a-G4",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-G2",
+  "to": "wy-e7a-G5",
+  "strength": "硬",
+  "note": "对照立时态概念"
+ },
+ {
+  "from": "wy-e7a-G2",
+  "to": "wy-e7a-G6",
+  "strength": "硬",
+  "note": "对照"
+ },
+ {
+  "from": "wy-e7a-G2",
+  "to": "wy-e7a-U2-K9",
+  "strength": "硬",
+  "note": "U2 内部回溯 G2 的第一个落点"
+ },
+ {
+  "from": "wy-e7a-G2",
+  "to": "wy-e7a-G3",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-G1",
+  "to": "wy-e7a-G6",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-U2-V",
+  "to": "wy-e7a-G4",
+  "strength": "硬",
+  "note": "sometimes 同词先现于 U2、U4 成点"
+ },
+ {
+  "from": "wy-e7a-U2-K3",
+  "to": "wy-e7a-U2-K4",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-P1",
+  "to": "wy-e7a-P2",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-P1",
+  "to": "wy-e7a-P3",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-P1",
+  "to": "wy-e7a-P4",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-P1",
+  "to": "wy-e7a-P6",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-P1",
+  "to": "wy-e7a-P5",
+  "strength": "软",
+  "note": "单元音之后"
+ },
+ {
+  "from": "wy-e7a-P2",
+  "to": "wy-e7a-P5",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-P3",
+  "to": "wy-e7a-P5",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "wy-e7a-P4",
+  "to": "wy-e7a-P5",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-A1",
+  "to": "qd-m7a-A2",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-A2",
+  "to": "qd-m7a-A3",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-A3",
+  "to": "qd-m7a-A4",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-A4",
+  "to": "qd-m7a-A5",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-A2",
+  "to": "qd-m7a-A5",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-G1",
+  "to": "qd-m7a-G2",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-G2",
+  "to": "qd-m7a-G3",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-G4",
+  "to": "qd-m7a-G5",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-G5",
+  "to": "qd-m7a-G6",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-P1",
+  "to": "qd-m7a-101",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-P2",
+  "to": "qd-m7a-103",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-101",
+  "to": "qd-m7a-102",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-101",
+  "to": "qd-m7a-103",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-101",
+  "to": "qd-m7a-104",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-104",
+  "to": "qd-m7a-105",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-103",
+  "to": "qd-m7a-105",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-105",
+  "to": "qd-m7a-106",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-105",
+  "to": "qd-m7a-107",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-106",
+  "to": "qd-m7a-107",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-107",
+  "to": "qd-m7a-108",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-106",
+  "to": "qd-m7a-108",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "qd-m7a-108",
+  "to": "qd-m7a-109",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-P1",
+  "to": "tb-c7a-R1",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-P1",
+  "to": "tb-c7a-R2",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-P2",
+  "to": "tb-c7a-R3",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-P2",
+  "to": "tb-c7a-R4",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-R2",
+  "to": "tb-c7a-W3",
+  "strength": "硬",
+  "note": "读到的中心先于写出的中心"
+ },
+ {
+  "from": "tb-c7a-W1",
+  "to": "tb-c7a-W2",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-W2",
+  "to": "tb-c7a-W3",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-W3",
+  "to": "tb-c7a-W4",
+  "strength": "硬",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-W2",
+  "to": "tb-c7a-W5",
+  "strength": "软",
+  "note": ""
+ },
+ {
+  "from": "tb-c7a-R5",
+  "to": "tb-c7a-W6",
+  "strength": "硬",
+  "note": "读想象而后写想象"
+ },
+ {
+  "from": "tb-c7a-R2",
+  "to": "tb-c7a-R6",
+  "strength": "软",
+  "note": "名著是读法的放大场"
+ },
+ {
+  "from": "tb-c7a-R5",
+  "to": "tb-c7a-R6",
+  "strength": "软",
+  "note": ""
+ }
+]
